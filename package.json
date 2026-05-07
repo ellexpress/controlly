@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/ellexpress/controlly#readme",
   "dependencies": {
-    "@ellenode/faily": "^0.0.1",
+    "@ellenode/faily": "^0.0.3",
     "@ellenode/maily": "^1.0.6"
   },
   "devDependencies": {
