@@ -1,6 +1,6 @@
 {
   "name": "@ellexpress/controlly",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Middleware para Express que facilita la gestión de transacciones con Sequelize y el manejo centralizado de errores, incluyendo notificaciones por correo en producción.",
   "main": "dist/controlly.cjs",
   "module": "dist/controlly.mjs",
