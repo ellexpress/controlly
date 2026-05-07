@@ -1,5 +1,5 @@
 import { emailException } from "@ellenode/faily";
-import { Mail } from "meily";
+import { Mail } from "@ellenode/maily";
 
 /**
  * Middleware function that wraps a given controller function in a transaction,
